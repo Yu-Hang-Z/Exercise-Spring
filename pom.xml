@@ -28,12 +28,15 @@
         <module>demo001</module>
         <module>demo002</module>
         <module>demo003</module>
+        <module>demo004</module>
+        <module>demo005</module>
     </modules>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
     </properties>
+
 
     <build>
         <plugins>
