@@ -1,0 +1,21 @@
+{
+  "properties": [
+    {
+      "name": "spring.imagePath",
+      "type": "java.lang.String",
+      "description": "Description for spring.imagePath.",
+      "defaultValue": "./images"
+    },
+    {
+      "name": "spring.jsonPath",
+      "type": "java.lang.String",
+      "description": "Description for spring.jsonPath.",
+      "defaultValue": "./json"
+    },
+    {
+      "name": "spring.excelPath",
+      "type": "java.lang.String",
+      "description": "Description for spring.excelPath.",
+      "defaultValue": "./excel"
+    }
+  ] }

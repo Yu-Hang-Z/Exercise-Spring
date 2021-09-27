@@ -30,6 +30,7 @@
         <module>demo003</module>
         <module>demo004</module>
         <module>demo005</module>
+        <module>demo006</module>
     </modules>
 
     <properties>
