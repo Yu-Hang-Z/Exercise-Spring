@@ -1,3 +1,6 @@
+server:
+  port: 9999
+
 spring:
   application:
     name: demo006
@@ -7,13 +10,10 @@ spring:
 
   resources:
     static-locations: classpath:/META-INF/resources/,classpath:/resources/,classpath:/static/,classpath:/public/,file:${spring.imagePath},file:${spring.excelPath},file:${spring.jsonPath}
-##绝对路径需要更具需求修改
+##路径需要按需求修改
   imagePath: /Users/zhangyuhang/Git_Repository/exercise-spring/demo006/upload-file/images/
-##绝对路径需要更具需求修改
   excelPath: /Users/zhangyuhang/Git_Repository/exercise-spring/demo006/upload-file/excel/
-##绝对路径需要更具需求修改
   jsonPath: /Users/zhangyuhang/Git_Repository/exercise-spring/demo006/upload-file/json/
 
 
-server:
-  port: 9999
+
